@@ -8,8 +8,11 @@
   height: 500px;
 }
 .new {
-  display: flex;
-  flex-direction: column;
+  text-align: center;
   align-items: center;
+  justify-content: space-evenly;
+}
+.button {
+  display: flex;
   justify-content: space-evenly;
 }
