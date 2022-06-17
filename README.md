@@ -16,6 +16,6 @@ https://ziaraheem.github.io/country-flags/
 
 ## Screenshots:
 
-.
 
-![screen](https://ibb.co/yFfTXMm)
+
+![screen](https://freeimage.host/i/h88C6F)
